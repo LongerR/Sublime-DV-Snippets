@@ -15,15 +15,15 @@ I'm using [Sublime 3][sublime3] and it works good.
 
 #### Mac OS
 
-    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+    ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
 
 #### Windows 7
 
-    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+    %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
 
 #### Linux
 
-    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
+    ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
 
 You can find it by type **Ctrl+ Shift+ P > Browse Packages** in your Sublime Text.
 
