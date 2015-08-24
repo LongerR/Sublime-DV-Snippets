@@ -9,23 +9,23 @@ Type the snippet shortcode and then press Tab to complete the snippet.
 
 ## Installation
 
-This package is not in [Package Control][package_control] repository, so you can use Terminal and git clone to install it. 
+This package is not in [Package Control][package_control] repository, so you can use Terminal and **git clone** to install it. 
 
 I'm using [Sublime 3][sublime3] and it works good.
 
 #### Mac OS
 
-    cd "~/Library/Application Support/Sublime Text 3/Packages"
-    
-#### Windows 7
-    
-    cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages"
-    
-#### Inside _Packages_
-    
-    git clone https://github.com/bitbonsai/sublime-jquery-snippets.git "jQuery-Snippets"
+    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
 
-Just type **Ctrl+ Shift+ P > Browse Packages** in your Sublime Text.
+#### Windows 7
+
+    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+
+#### Linux
+
+    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
+
+You can find it by type **Ctrl+ Shift+ P > Browse Packages** in your Sublime Text.
 
 ## JavaScript
 
