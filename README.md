@@ -29,13 +29,13 @@ You can find it by type **Ctrl+ Shift+ P > Browse Packages** in your Sublime Tex
 
 Type the snippet shortcode and then press Tab to complete the snippet.
 
-#### cl => console.log
+#### cl
 
 ```js
 console.log(${1:msg})${0}
 ```
 
-#### fna => anonymous function
+#### fna
 
 ```js
 function(${1:arguments}) {
@@ -43,7 +43,7 @@ function(${1:arguments}) {
 }
 ```
 
-#### fni => immediately-invoked function
+#### fni
 
 ```js
 (function() {
