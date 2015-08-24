@@ -3,8 +3,6 @@ Sublime-DV-Snippets
 
 This is a Sublime Text package of usefull snippets for the Front-End development.
 
-Languages: HTML-5, CSS-3, JavaScript, ActionScript-3
-
 Type the snippet shortcode and then press Tab to complete the snippet.
 
 ## Installation
@@ -28,6 +26,8 @@ I'm using [Sublime 3][sublime3] and it works good.
 You can find it by type **Ctrl+ Shift+ P > Browse Packages** in your Sublime Text.
 
 ## JavaScript
+
+Type the snippet shortcode and then press Tab to complete the snippet.
 
 #### cl => console.log
 
