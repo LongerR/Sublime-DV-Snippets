@@ -34,27 +34,55 @@ $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 
 Type the snippet shortcode and then press Tab to complete the snippet.
 
-#### [con] + [Tab] = console.log
+#### [con] console.log
 
 ```js
 console.log(${1:msg})${0}
 ```
 
-#### [fna] + [Tab] = anonymous function
+#### [fun] function
 
 ```js
-function(${1:arguments}) {
-    ${0:// body...}
+function ${1:methodName}(${2:arguments}) {
+    ${3}
 }
 ```
 
-#### [fni] + [Tab] = immediately-invoked function expression
+#### [add] addEventListener
 
 ```js
-(function() {
-    ${0:// body...}
-})();
+${1:document}.addEventListener('${2:event}', function(e) {
+    ${3}
+});
 ```
+
+#### [cre] createElement
+
+```js
+${1:document}.createElement(${2:elem});
+```
+
+#### [app] appendChild
+
+```js
+${1:document}.appendChild(${2:elem});
+```
+
+#### [rem] removeChild
+
+```js
+${1:document}.removeChild(${2:elem});
+```
+
+#### [inn] innerHTML
+
+```js
+${1:document}.innerHTML = '${2:elem}';
+```
+
+
+
+
 
 [sublime]: http://www.sublimetext.com/
 [sublime3]: http://www.sublimetext.com/3
