@@ -80,5 +80,13 @@ ${1:document}.removeChild(${2:elem});
 ${1:document}.innerHTML = '${2:elem}';
 ```
 
+#### [set] setTimeout, setInterval
+
+```js
+set${1:T}${1/(T)|(I).*/(?1:imeout)(?2:nterval)/}(function() {
+    ${3:$TM_SELECTED_TEXT}
+}, ${2:50});
+```
+
 [sublime]: http://www.sublimetext.com/
 [package_control]: https://packagecontrol.io/
