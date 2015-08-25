@@ -34,13 +34,13 @@ $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 
 Type the snippet shortcode and then press Tab to complete the snippet.
 
-#### [cl] - console.log
+#### [cl] + [Tab] = console.log
 
 ```js
 console.log(${1:msg})${0}
 ```
 
-#### [fna] - anonymous function
+#### [fna] + [Tab] = anonymous function
 
 ```js
 function(${1:arguments}) {
@@ -48,7 +48,7 @@ function(${1:arguments}) {
 }
 ```
 
-#### [fni] - immediately-invoked function expression
+#### [fni] + [Tab] = immediately-invoked function expression
 
 ```js
 (function() {
