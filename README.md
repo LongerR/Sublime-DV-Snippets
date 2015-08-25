@@ -3,7 +3,7 @@ DV-Snippets for [Sublime Text][sublime]
 
 This is a package of usefull snippets for the Front-End development.
 
-I'm using [Sublime Text 3][sublime3] and it works good.
+I'm using Sublime Text 3 and it works good.
 
 ## Installation
 
@@ -80,10 +80,5 @@ ${1:document}.removeChild(${2:elem});
 ${1:document}.innerHTML = '${2:elem}';
 ```
 
-
-
-
-
 [sublime]: http://www.sublimetext.com/
-[sublime3]: http://www.sublimetext.com/3
 [package_control]: https://packagecontrol.io/
