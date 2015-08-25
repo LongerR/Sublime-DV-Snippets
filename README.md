@@ -1,7 +1,7 @@
 DV-Snippets for [Sublime Text][sublime]
 ===========================================
 
-This is a Sublime Text package of usefull snippets for the Front-End development.
+This is a package of usefull snippets for the Front-End development.
 
 I'm using [Sublime Text 3][sublime3] and it works good.
 
