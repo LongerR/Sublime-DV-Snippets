@@ -1,27 +1,34 @@
-Sublime-DV-Snippets
+DV-Snippets for [Sublime Text][sublime3]
 ===========================================
 
 This is a Sublime Text package of usefull snippets for the Front-End development.
 
-Type the snippet shortcode and then press Tab to complete the snippet.
-
 ## Installation
 
-This package is not in [Package Control][package_control] repository, so you can use Terminal and **git clone** to install it. 
+This package is not in [Package Control][package_control] repository, so you can use Terminal and **git clone** to install it. Also you can go to `Preferences > Browse Packages...` in your editor and copy this bundle manually.
 
 I'm using [Sublime 3][sublime3] and it works good.
 
-#### Mac OS
+Mac OS:
 
-    ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+```sh
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
+```
 
-#### Windows 7
+Windows 7:
 
-    %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+```sh
+    cd %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
+```
 
-#### Linux
+Linux:
 
-    ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
+```sh
+    cd ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
+    git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
+```
 
 ## JavaScript
 
