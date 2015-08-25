@@ -37,7 +37,7 @@ Type the snippet shortcode and then press Tab to complete the snippet.
 #### [con] console.log
 
 ```js
-console.log(${1:msg})${0}
+console.log(${1:obj})${0}
 ```
 
 #### [fun] function
