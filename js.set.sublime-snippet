@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+set${1:T}${1/(T)|(I).*/(?1:imeout)(?2:nterval)/}(function() {
+    ${3:$TM_SELECTED_TEXT}
+}, ${2:50});
+]]></content>
+    <tabTrigger>set</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTimeout, setInterval</description>
+</snippet>
