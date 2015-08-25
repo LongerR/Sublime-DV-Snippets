@@ -34,7 +34,7 @@ $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 
 Type the snippet shortcode and then press Tab to complete the snippet.
 
-[cl] + [Tab] = console.log
+#### [cl] + [Tab] = console.log
 
 ```js
 console.log(${1:msg})${0}
