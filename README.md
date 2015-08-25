@@ -9,21 +9,21 @@ I'm using [Sublime Text 3][sublime3] and it works good.
 
 This package is not in [Package Control][package_control] repository, so you can use Terminal and **git clone** to install it. Also you can go to `Preferences > Browse Packages...` in your editor and copy this bundle manually.
 
-Mac OS:
+**Mac OS:**
 
 ```sh
 $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
 $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 ```
 
-Windows 7:
+**Windows 7:**
 
 ```sh
 $ cd %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
 $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 ```
 
-Linux:
+**Linux:**
 
 ```sh
 $ cd ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
