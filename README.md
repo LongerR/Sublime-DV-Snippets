@@ -12,21 +12,21 @@ This package is not in [Package Control][package_control] repository, so you can
 **Mac OS:**
 
 ```sh
-$ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+$ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
 $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 ```
 
 **Windows 7:**
 
 ```sh
-$ cd %APPDATA%/Sublime\ Text\ 3/Packages/Sublime-DV-Snippets
+$ cd %APPDATA%/Sublime\ Text\ 3/Packages
 $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 ```
 
 **Linux:**
 
 ```sh
-$ cd ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
+$ cd ~/.config/sublime-text-3/Packages
 $ git clone https://github.com/DopustimVladimir/Sublime-DV-Snippets.git
 ```
 
