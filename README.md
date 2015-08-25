@@ -1,13 +1,13 @@
 DV-Snippets for [Sublime Text][sublime]
 ===========================================
 
-This is a Sublime Text package of usefull snippets for the Front-End development.
+This is a package of usefull snippets for the Front-End development.
+
+I'm using [Sublime Text 3][sublime3] and it works good.
 
 ## Installation
 
 This package is not in [Package Control][package_control] repository, so you can use Terminal and **git clone** to install it. Also you can go to `Preferences > Browse Packages...` in your editor and copy this bundle manually.
-
-I'm using [Sublime Text 3][sublime3] and it works good.
 
 Mac OS:
 
