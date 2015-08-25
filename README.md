@@ -23,8 +23,6 @@ I'm using [Sublime 3][sublime3] and it works good.
 
     ~/.config/sublime-text-3/Packages/Sublime-DV-Snippets
 
-You can find it by type **Ctrl+ Shift+ P > Browse Packages** in your Sublime Text.
-
 ## JavaScript
 
 Type the snippet shortcode and then press Tab to complete the snippet.
