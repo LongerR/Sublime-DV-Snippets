@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-console.log(${1:obj})${0}
+console.log(${1:obj});
 ]]></content>
     <tabTrigger>con</tabTrigger>
     <scope>source.js</scope>
