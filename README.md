@@ -1,4 +1,4 @@
-DV-Snippets for [Sublime Text][sublime3]
+DV-Snippets for [Sublime Text][sublime]
 ===========================================
 
 This is a Sublime Text package of usefull snippets for the Front-End development.
@@ -56,5 +56,6 @@ function(${1:arguments}) {
 })();
 ```
 
+[sublime]: http://www.sublimetext.com/
 [sublime3]: http://www.sublimetext.com/3
 [package_control]: https://packagecontrol.io/
