@@ -1,5 +1,4 @@
-DV-Snippets for [Sublime Text][sublime]
-===========================================
+# DV-Snippets for [Sublime Text][sublime]
 
 This is a package of usefull snippets for the Front-End development.
 
