@@ -8,3 +8,5 @@ ${1:document}.addEventListener('${2:event}', function(e) {
     <scope>source.js</scope>
     <description>addEventListener</description>
 </snippet>
+
+mfngsngmn,gnmf
